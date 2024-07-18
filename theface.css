@@ -1,0 +1,242 @@
+.homelink,.menulink{
+  color:rgb(94, 1, 1);
+  font-family:oswald;
+  text-align: right;
+  font-weight:bold;
+  font-size: 25px;
+  margin-right: 100px;
+}
+.aboutuslink{
+  color:rgb(94, 1, 1);
+  font-family:Oswald;
+  font-size:25px;
+  font-weight:bold;
+}
+.links{
+  text-align:center;
+  display:inline-block;
+  vertical-align: middle;
+  margin-right:350px;
+}
+.body{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left:0px;
+  background-image: url(gg.jpg);
+}
+.sammy{
+  font-size:50px;
+  color:rgb(94, 1, 1);
+  font-family:'Times New Roman', Times, serif;
+  padding-left: 15px;
+  padding-right:15px;
+  font-style:italic;
+  margin-top: 0px;
+  padding-top:20px;
+  padding-bottom: 20px;
+  display:inline-block;
+  margin-bottom: 0px;
+}
+.sam{
+  display:block;
+  
+  margin-bottom:40px;
+  height:100px;
+}
+.search{
+  height:35px;
+  width:200px;
+  padding-left: 10px;
+  border:none;
+  border-radius: 7px;
+  vertical-align: center;
+  padding-right:400px;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+.searchbar{
+  border-radius:8px;
+  border-color: brown;
+}
+.bar{
+  text-align: center;
+  margin-bottom: 100px;
+}
+.letter{
+  vertical-align:middle;
+  display:inline-block;
+  text-align: center;
+  margin-right: 110px;
+}
+.button{
+  display:inline-block;
+  vertical-align: middle;
+}
+.login,.signup{
+  cursor: pointer;
+  background-color:rgb(94, 1, 1);
+  color:white;
+  height:30px;
+  width:80px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  border-radius: 5px;
+}
+.a{
+  display:block;
+  height:30px;
+  width:300px;
+  text-align: center;
+  border-radius: 8px;
+  margin-bottom:10px;
+}
+.b{
+  display:block;
+  height:30px;
+  width:300px;
+  text-align: center;
+  border-radius: 8px;
+  margin-bottom:10px;
+}
+.logon{
+  color:white;
+  font-size: large;
+  font-family:Arial, Helvetica, sans-serif;
+  margin-bottom:25px;
+  font-weight:BOLD;
+}
+.details{
+  display:inline-block;
+  text-align: center;
+  margin-left: 50px;
+  background-color:rgb(94, 1, 1);
+}
+.food1,.food2,.food3,.food4,.food5,.food6,.food7,.food9,.food10,.food11
+,.food12,.food13,.food14,.food15,.food18{
+  height:200px;
+  width:200px;
+  object-fit: cover;
+  margin-bottom:0px;
+}
+.main{
+  font-family: oswald;
+  font-weight: bold;
+  font-size: 37px;
+  text-align: center;
+  margin-top: 0px;
+  text-decoration: underline;
+  color:white;
+}
+.mbar{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.but{
+  margin-top: 0px;
+  cursor: pointer;
+  background-color:rgb(94, 1, 1);
+  color: white;
+  height:30px;
+  width:100px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  border-radius: 5px;
+  border:none;
+  margin-bottom:5px;
+}
+.r{
+  margin-bottom:0px;
+  margin-top:0px;
+  color:white;
+}
+.t{
+  margin-bottom: 0px;
+  color:white;
+}
+.why{
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+  color:black;
+  text-decoration: underline;
+}
+.info{
+  color: black;
+  margin-bottom:70px;
+  font-weight: bold;
+}
+.abbout{
+  text-align: center;
+}
+.contact{
+  color: white;
+}
+.gmail,.address,.telephone{
+  font-family: Arial, Helvetica, sans-serif;
+  color:white;
+}
+.logo{
+  height:300px;
+  width:300px;
+  object-fit: cover;
+  margin-bottom: 70px;
+}
+.zin{
+  background-color: rgb(94, 1, 1);
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.welcome{
+  font-style:italic;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;
+  text-decoration: solid;
+  color:black;
+}
+.body1{
+  background-image:url(gyg.jpg);
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left:0px;
+}
+.loginn,.signupp{
+  cursor: pointer;
+  background-color:white;
+  color:rgb(94, 1, 1);
+  height:30px;
+  width:80px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  border-radius: 5px;
+}
+.sammyy{
+  font-size:50px;
+  color:white;
+  font-family:'Times New Roman', Times, serif;
+  padding-left: 15px;
+  padding-right:15px;
+  font-style:italic;
+  margin-top: 0px;
+  padding-top:20px;
+  padding-bottom: 20px;
+  display:inline-block;
+  margin-bottom: 0px;
+}
+.homelinkk,.menulinkk{
+  color:white;
+  font-family:oswald;
+  text-align: right;
+  font-weight:bold;
+  font-size: 25px;
+  margin-right: 100px;
+}
+.aboutuslinkk{
+  color:white;
+  font-family:Oswald;
+  font-size:25px;
+  font-weight:bold;
+}
